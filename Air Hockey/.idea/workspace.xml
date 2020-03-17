@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Air Hockey:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce0853bf-e7c4-427a-9a5a-72e9166ffe56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xk8AB4bD19pmhmv1D7FsxpMVp7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.AirHockey">
+    <configuration name="AirHockey" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airHockey.AirHockey" />
+      <module name="Air Hockey" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="airHockey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Air Hockey" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.AirHockey" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AirHockey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce0853bf-e7c4-427a-9a5a-72e9166ffe56" name="Default Changelist" comment="" />
+      <created>1581578585763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581578585763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="210" key="#AirHockey" timestamp="1581583460167">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="646" y="210" key="#AirHockey/0.0.1858.1080@0.0.1858.1080" timestamp="1581583460167" />
+    <state x="521" y="198" key="#Auto_Import" timestamp="1581588774101">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="198" key="#Auto_Import/0.0.1858.1080@0.0.1858.1080" timestamp="1581588774101" />
+    <state x="515" y="199" key="#Project_Structure" timestamp="1584436658074">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="515" y="199" key="#Project_Structure/0.0.1846.1080@0.0.1846.1080" timestamp="1584436658074" />
+    <state x="656" y="204" key="#Unnamed" timestamp="1581578723401">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="656" y="204" key="#Unnamed/0.0.1858.1080@0.0.1858.1080" timestamp="1581578723401" />
+    <state x="393" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581588031505">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="393" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581588031505" />
+    <state x="659" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581944696369">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="659" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581944696369" />
+    <state x="725" y="425" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581586077522">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="725" y="425" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1858.1080@0.0.1858.1080" timestamp="1581586077522" />
+    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581579135827">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581579135827" />
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom" timestamp="1584438348238">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1803" height="295" key="GridCell.Tab.0.bottom/0.0.1846.1080@0.0.1846.1080" timestamp="1584438348238" />
+    <state width="1815" height="2" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582097408881" />
+    <state width="1803" height="295" key="GridCell.Tab.0.center" timestamp="1584438348238">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1803" height="295" key="GridCell.Tab.0.center/0.0.1846.1080@0.0.1846.1080" timestamp="1584438348238" />
+    <state width="1815" height="2" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582097408881" />
+    <state width="1803" height="295" key="GridCell.Tab.0.left" timestamp="1584438348238">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1803" height="295" key="GridCell.Tab.0.left/0.0.1846.1080@0.0.1846.1080" timestamp="1584438348238" />
+    <state width="1815" height="2" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582097408880" />
+    <state width="1803" height="295" key="GridCell.Tab.0.right" timestamp="1584438348238">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1803" height="295" key="GridCell.Tab.0.right/0.0.1846.1080@0.0.1846.1080" timestamp="1584438348238" />
+    <state width="1815" height="2" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582097408881" />
+    <state width="1815" height="136" key="GridCell.Tab.1.bottom" timestamp="1581925407964">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="136" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1581925407964" />
+    <state width="1815" height="136" key="GridCell.Tab.1.center" timestamp="1581925407963">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="136" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1581925407963" />
+    <state width="1815" height="136" key="GridCell.Tab.1.left" timestamp="1581925407963">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="136" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1581925407963" />
+    <state width="1815" height="136" key="GridCell.Tab.1.right" timestamp="1581925407963">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="136" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1581925407963" />
+    <state x="409" y="114" key="SettingsEditor" timestamp="1581944706265">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="409" y="114" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1581944706265" />
+    <state x="621" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584436648143">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="621" y="364" key="com.intellij.ide.util.TipDialog/0.0.1846.1080@0.0.1846.1080" timestamp="1584436648143" />
+    <state x="625" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582009458890" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1581939643530">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1581939643530" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1581587934201">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1581587934201" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Air_Hockey$AirHockey.ic" NAME="AirHockey Coverage Results" MODIFIED="1581940726882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>airHockey.*</FILTER>
+    </SUITE>
+  </component>
+</project>
